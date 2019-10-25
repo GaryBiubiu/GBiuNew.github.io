@@ -1,16 +1,19 @@
-## 欢迎来到GaryBiubiu的资源站
+# 欢迎来到GaryBiubiu的资源站
 
-这里是GaryBiubiu资源站的demo版本，我们即将更新旧版网页，目前更换工作进行中，不时维护，带来的不便，敬请谅解。
+这里是GaryBiubiu资源站的demo版本，我们即将更新旧版网页，目前更新工作进行中，不时维护，带来的不便，敬请谅解。
 
-##~~国际版免费下载
-Apple ID:Ferguson462@icloud.com
-Password:Ee112255~~
+# 国际版免费下载
+'Apple ID:Ferguson462@icloud.com'
+'Password:Ee112255'
 此ID貌似已无法登录，我们正在继续寻找中...
 
 
 
 ## Office专题
-[accordion header="Office专题"]Building...[/accordion]
+<details>
+<summary>展开查看</summary>
+building...
+</details>
 
 - Bulleted
 - List
