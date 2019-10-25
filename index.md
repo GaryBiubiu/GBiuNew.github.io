@@ -2,16 +2,15 @@
 
 这里是GaryBiubiu资源站的demo版本，我们即将更新旧版网页，目前更换工作进行中，不时维护，带来的不便，敬请谅解。
 
-### Markdown
+##~~国际版免费下载
+Apple ID:Ferguson462@icloud.com
+Password:Ee112255~~
+此ID貌似已无法登录，我们正在继续寻找中...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Office专题
+[accordion header="Office专题"]Building...[/accordion]
 
 - Bulleted
 - List
