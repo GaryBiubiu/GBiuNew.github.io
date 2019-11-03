@@ -1,3 +1,4 @@
+`Microsoft, Your Potential Our Passion.`
 # 欢迎来到GaryBiubiu的资源站
 
 这里是GaryBiubiu资源站的demo版本，我们即将更新旧版网页，目前更新工作进行中，不时维护，带来的不便，敬请谅解。
