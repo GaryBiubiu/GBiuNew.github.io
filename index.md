@@ -8,13 +8,18 @@ Apple ID:Ferguson462@icloud.com
 Password:Ee112255  
 此ID貌似已无法登录，我们正在继续寻找中...
 
-# Office专题
+# Office 专题
 <details>
 <summary>Office 2007专题</summary>
 Professional 下载     
 https://pan.baidu.com/s/1Idj-WJiQewWKYSqHqvnksg&shfl=sharepset
 </details>
 
+# About GaryBiubiu
+<details>
+<summary>About</summary>
+`Stop Here`
+</details>
 
 # 回旧版站
 https://GaryBiubiu.github.io
